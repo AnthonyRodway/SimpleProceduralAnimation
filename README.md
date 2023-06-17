@@ -19,6 +19,8 @@ This was a smaller animation project that I accomplished in the animation class 
 
 There are two different IK algorithms I implemented, Forward And Backward Reaching Inverse Kinematics which you can read a short explanation about [here](http://www.andreasaristidou.com/FABRIK.html), and Cyclic Coordinate Descent Inverse Kinematics which more can be read about it [here](http://www.root-motion.com/finalikdox/html/page5.html).
 
+I also did a report of my findings and a more in-depth explanation of the project [in this dropbox](https://www.dropbox.com/s/qmxcdtgoikj7exe/Rodway_Anthony_Final_Paper.pdf?dl=0)
+
 This project can also be interpreted as not fully complete. There are some bugs in the system that I will come back to in the future, but for the sake of the project about learning, I was happy with my progress.
 
 https://github.com/AnthonyRodway/SimpleProceduralAnimation/assets/69998437/d1b037cb-6255-4900-9d62-485cf8a26fc3
